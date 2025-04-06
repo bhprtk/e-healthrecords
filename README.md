@@ -15,10 +15,6 @@
 - React
 - Firebase
 
-## 📸 Screenshots
-
-> _Coming soon — UI examples and system flow_
-
 ## 🚀 Getting Started
 
 ### Prerequisites

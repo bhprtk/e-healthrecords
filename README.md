@@ -62,5 +62,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Pratik Bhandari](https://bhprtk.com)
-```
+A project by [Pratik Bhandari](https://bhprtk.com)
